@@ -41,3 +41,9 @@ htdocs 에서 웹 파일을 추가 할 경우 새로고침하면 새로 반영�
 
 웹 서버 실행 시 바라보고 있는 폴더를 **DocumentRoot** 라고 한다.  
 DocumentRoot 는 Apache Config 에서 임의로 변경이 가능하다.
+
+#### phpMyAdmin
+
+MySQL 을 실행하고 localhost/phpmyadmin 로 접근 시 아래와 같은 화면이 보이게 된다.
+
+![xampp-phpmyadmin](./images/xampp-phpmyadmin.png)
